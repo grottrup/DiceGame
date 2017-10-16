@@ -1,4 +1,10 @@
-﻿C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V140\Microsoft.CppBuild.targets(392,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (TestDiceGame.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+﻿  player.c
+c:\onedrive\one\ict\via\hand-ins\sem3\cal\iha\dicegame\testdrivendevelopmentc\dicegame\player.c(34): warning C4996: 'strncpy': This function or variable may be unsafe. Consider using strncpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(346): note: see declaration of 'strncpy'
+c:\onedrive\one\ict\via\hand-ins\sem3\cal\iha\dicegame\testdrivendevelopmentc\dicegame\player.c(39): warning C4996: 'strtok': This function or variable may be unsafe. Consider using strtok_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(453): note: see declaration of 'strtok'
+c:\onedrive\one\ict\via\hand-ins\sem3\cal\iha\dicegame\testdrivendevelopmentc\dicegame\player.c(67): warning C4996: 'strtok': This function or variable may be unsafe. Consider using strtok_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(453): note: see declaration of 'strtok'
   TestPlayer.cpp
-TestPlayer.obj : error LNK2019: unresolved external symbol _getTotalScore referenced in function "public: virtual void __thiscall TEST_TEST_PLAYER_TotalScoreMustStartAtZero_Test::testBody(void)" (?testBody@TEST_TEST_PLAYER_TotalScoreMustStartAtZero_Test@@UAEXXZ)
-C:\OneDrive\one\ICT\VIA\hand-ins\sem3\CAL\IHA\DiceGame\TestDrivenDevelopmentC\Debug\TestCommunication.exe : fatal error LNK1120: 1 unresolved externals
+  TestDiceGame.vcxproj -> C:\OneDrive\one\ICT\VIA\hand-ins\sem3\CAL\IHA\DiceGame\TestDrivenDevelopmentC\Debug\TestDiceGame.exe
+  TestDiceGame.vcxproj -> C:\OneDrive\one\ICT\VIA\hand-ins\sem3\CAL\IHA\DiceGame\TestDrivenDevelopmentC\Debug\TestDiceGame.pdb (Full PDB)
