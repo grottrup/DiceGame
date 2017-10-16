@@ -1,0 +1,42 @@
+[2017-05-08 14:56:26] [info] Start Program:
+Path:"C:\OneDrive\one\ICT\VIA\hand-ins\sem3\CAL\IHA\DiceGame\TestDrivenDevelopmentC\Debug\TestDiceGame.exe"
+Arguments:
+Working directory: "C:\OneDrive\one\ICT\VIA\hand-ins\sem3\CAL\IHA\DiceGame\TestDrivenDevelopmentC\TestDiceGame\"
+Modules: Selected: C:\OneDrive\one\ICT\VIA\hand-ins\sem3\CAL\IHA\DiceGame\TestDrivenDevelopmentC\Debug\DiceGame.exe C:\OneDrive\one\ICT\VIA\hand-ins\sem3\CAL\IHA\DiceGame\TestDrivenDevelopmentC\Debug\TestDiceGame.exe Excluded: 
+Sources: Selected: C:\OneDrive\one\ICT\VIA\hand-ins\sem3\CAL\IHA\DiceGame\TestDrivenDevelopmentC\DiceGame C:\OneDrive\one\ICT\VIA\hand-ins\sem3\CAL\IHA\DiceGame\TestDrivenDevelopmentC\DiceGame C:\OneDrive\one\ICT\VIA\hand-ins\sem3\CAL\IHA\DiceGame\TestDrivenDevelopmentC\TestDiceGame Excluded: 
+Log Level: Normal
+Cover Children: 0
+Aggregate by file: 1
+Continue after C++ exception: 0
+Export: Binary C:\Users\T420s\AppData\Local\Temp\u21afbel.wzt 
+Input coverage: 
+Unified diff: 
+[2017-05-08 14:56:26] [info] Module: C:\OneDrive\one\ICT\VIA\hand-ins\sem3\CAL\IHA\DiceGame\TestDrivenDevelopmentC\Debug\TestDiceGame.exe is selected because it matches selected pattern: C:\OneDrive\one\ICT\VIA\hand-ins\sem3\CAL\IHA\DiceGame\TestDrivenDevelopmentC\Debug\TestDiceGame.exe
+[2017-05-08 14:56:26] [info] Module: C:\Windows\SysWOW64\ntdll.dll is skipped because it matches no selected patterns
+[2017-05-08 14:56:26] [info] Module: C:\Windows\SysWOW64\kernel32.dll is skipped because it matches no selected patterns
+[2017-05-08 14:56:26] [info] Module: C:\Windows\SysWOW64\KernelBase.dll is skipped because it matches no selected patterns
+[2017-05-08 14:56:26] [info] Module: C:\Windows\SysWOW64\winmm.dll is skipped because it matches no selected patterns
+[2017-05-08 14:56:26] [info] Module: C:\Windows\SysWOW64\msvcrt.dll is skipped because it matches no selected patterns
+[2017-05-08 14:56:26] [info] Module: C:\Windows\SysWOW64\user32.dll is skipped because it matches no selected patterns
+[2017-05-08 14:56:26] [info] Module: C:\Windows\SysWOW64\gdi32.dll is skipped because it matches no selected patterns
+[2017-05-08 14:56:26] [info] Module: C:\Windows\SysWOW64\lpk.dll is skipped because it matches no selected patterns
+[2017-05-08 14:56:26] [info] Module: C:\Windows\SysWOW64\usp10.dll is skipped because it matches no selected patterns
+[2017-05-08 14:56:26] [info] Module: C:\Windows\SysWOW64\advapi32.dll is skipped because it matches no selected patterns
+[2017-05-08 14:56:26] [info] Module: C:\Windows\SysWOW64\sechost.dll is skipped because it matches no selected patterns
+[2017-05-08 14:56:26] [info] Module: C:\Windows\SysWOW64\rpcrt4.dll is skipped because it matches no selected patterns
+[2017-05-08 14:56:26] [info] Module: C:\Windows\SysWOW64\sspicli.dll is skipped because it matches no selected patterns
+[2017-05-08 14:56:26] [info] Module: C:\Windows\SysWOW64\cryptbase.dll is skipped because it matches no selected patterns
+[2017-05-08 14:56:26] [info] Module: C:\Windows\SysWOW64\vcruntime140d.dll is skipped because it matches no selected patterns
+[2017-05-08 14:56:26] [info] Module: C:\Windows\SysWOW64\ucrtbased.dll is skipped because it matches no selected patterns
+[2017-05-08 14:56:26] [info] Module: C:\Windows\SysWOW64\api-ms-win-core-timezone-l1-1-0.dll is skipped because it matches no selected patterns
+[2017-05-08 14:56:26] [info] Module: C:\Windows\SysWOW64\api-ms-win-core-file-l2-1-0.dll is skipped because it matches no selected patterns
+[2017-05-08 14:56:26] [info] Module: C:\Windows\SysWOW64\api-ms-win-core-localization-l1-2-0.dll is skipped because it matches no selected patterns
+[2017-05-08 14:56:26] [info] Module: C:\Windows\SysWOW64\api-ms-win-core-synch-l1-2-0.dll is skipped because it matches no selected patterns
+[2017-05-08 14:56:26] [info] Module: C:\Windows\SysWOW64\api-ms-win-core-processthreads-l1-1-1.dll is skipped because it matches no selected patterns
+[2017-05-08 14:56:26] [info] Module: C:\Windows\SysWOW64\api-ms-win-core-file-l1-2-0.dll is skipped because it matches no selected patterns
+[2017-05-08 14:56:26] [info] Module: C:\Windows\SysWOW64\imm32.dll is skipped because it matches no selected patterns
+[2017-05-08 14:56:26] [info] Module: C:\Windows\SysWOW64\msctf.dll is skipped because it matches no selected patterns
+[2017-05-08 14:56:26] [info] Module: C:\Windows\SysWOW64\nvinit.dll is skipped because it matches no selected patterns
+[2017-05-08 14:56:27] [info] ----------------------------------------------------
+[2017-05-08 14:56:27] [info] Coverage binary generated in file: C:\Users\T420s\AppData\Local\Temp\u21afbel.wzt
+[2017-05-08 14:56:27] [info] ----------------------------------------------------

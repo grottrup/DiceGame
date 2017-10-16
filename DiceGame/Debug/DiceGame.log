@@ -1,0 +1,10 @@
+﻿  player.c
+c:\onedrive\one\ict\via\hand-ins\sem3\cal\iha\dicegame\testdrivendevelopmentc\dicegame\player.c(43): warning C4013: 'strtol' undefined; assuming extern returning int
+c:\onedrive\one\ict\via\hand-ins\sem3\cal\iha\dicegame\testdrivendevelopmentc\dicegame\player.c(34): warning C4996: 'strncpy': This function or variable may be unsafe. Consider using strncpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(346): note: see declaration of 'strncpy'
+c:\onedrive\one\ict\via\hand-ins\sem3\cal\iha\dicegame\testdrivendevelopmentc\dicegame\player.c(39): warning C4996: 'strtok': This function or variable may be unsafe. Consider using strtok_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(453): note: see declaration of 'strtok'
+c:\onedrive\one\ict\via\hand-ins\sem3\cal\iha\dicegame\testdrivendevelopmentc\dicegame\player.c(67): warning C4996: 'strtok': This function or variable may be unsafe. Consider using strtok_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(453): note: see declaration of 'strtok'
+MSVCRTD.lib(exe_main.obj) : error LNK2019: unresolved external symbol _main referenced in function "int __cdecl invoke_main(void)" (?invoke_main@@YAHXZ)
+C:\OneDrive\one\ICT\VIA\hand-ins\sem3\CAL\IHA\DiceGame\TestDrivenDevelopmentC\Debug\DiceGame.exe : fatal error LNK1120: 1 unresolved externals

@@ -1,0 +1,4 @@
+﻿C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V140\Microsoft.CppBuild.targets(392,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (TestDiceGame.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  TestPlayer.cpp
+TestPlayer.obj : error LNK2019: unresolved external symbol _getTotalScore referenced in function "public: virtual void __thiscall TEST_TEST_PLAYER_TotalScoreMustStartAtZero_Test::testBody(void)" (?testBody@TEST_TEST_PLAYER_TotalScoreMustStartAtZero_Test@@UAEXXZ)
+C:\OneDrive\one\ICT\VIA\hand-ins\sem3\CAL\IHA\DiceGame\TestDrivenDevelopmentC\Debug\TestCommunication.exe : fatal error LNK1120: 1 unresolved externals
