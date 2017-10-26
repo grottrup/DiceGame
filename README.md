@@ -1,8 +1,8 @@
 # DiceGame
 
-![Class diagram](https://raw.githubusercontent.com/sirasmu/DiceGame/master/UML.PNG)
+![TDD](https://raw.githubusercontent.com/sirasmu/DiceGame/master/TestDrivenDevelopment.PNG)
 
-![Class diagram](https://raw.githubusercontent.com/sirasmu/DiceGame/master/TDD.PNG)
+![Class diagram](https://raw.githubusercontent.com/sirasmu/DiceGame/master/UML.PNG)
 
 Each game starts with calling startGame() to ensure the total points for the player starts at 0. At the start of a turn call startTurn() to set the points and throws of that turn to 0.  Call throwDice() for each throw with the die kinds the player wants to save, separated by comma. The function stopTurn() returns the score for the turn.  When calling hasWon() it returns true if the player has reached 25000 total points or more. The function getTotalScore() returns the total score.  The helpingfunction countDieKind() takes 2 variables, the string dice, and int array eyes, and counts up each eye in the string.  The helping function calcPointForDie() takes an int array and returns the points. This is will be needed when calculating points dice thrown. The function saveThrow() takes an int array and saves the dice thrown last turn, used for the next turn. The function challengeThrow() takes 2 variables, an int and a string. The int is dieKind and is the number the player is throwing for, and the string is the list of dice thrown. Returns the points for that throw. 
 
