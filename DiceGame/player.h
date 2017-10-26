@@ -20,7 +20,7 @@ void startGame(void);
 void challengeThrow(int dice_kind, char* dice);
 
 /**
-* \brief The amount of throws and and points for the turn to should start at 0.
+* \brief The amount of throws and and points for the turn should start at 0.
 */
 void startTurn(void);
 
