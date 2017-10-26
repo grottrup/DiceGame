@@ -1,6 +1,6 @@
 # DiceGame
 
-![Class diagram](https://raw.githubusercontent.com/sirasmu/DiceGame/master/TDD.PNG)
+![Class diagram](https://raw.githubusercontent.com/sirasmu/DiceGame/master/UML.PNG)
 
 ![Class diagram](https://raw.githubusercontent.com/sirasmu/DiceGame/master/TDD.PNG)
 
