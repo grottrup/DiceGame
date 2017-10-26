@@ -1,3 +1,3 @@
 # DiceGame
 
-![alt text](http://url/to/img.png)
+![Class diagram](https://raw.githubusercontent.com/sirasmu/DiceGame/master/TDD.PNG)
