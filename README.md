@@ -1,6 +1,6 @@
 # DiceGame
 
-This is small project meant to learn the benefit of Test Driven Development.
+This is small project meant to learn the benefit of Test Driven Development. I made it in the spring 2017.
 
 ![TDD](https://raw.githubusercontent.com/sirasmu/DiceGame/master/TestDrivenDevelopment.PNG)
 
