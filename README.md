@@ -1,5 +1,7 @@
 # DiceGame
 
+This is small project meant to learn the benefit of Test Driven Development.
+
 ![TDD](https://raw.githubusercontent.com/sirasmu/DiceGame/master/TestDrivenDevelopment.PNG)
 
 ![Class diagram](https://raw.githubusercontent.com/sirasmu/DiceGame/master/UML.PNG)
